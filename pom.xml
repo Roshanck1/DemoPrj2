@@ -89,9 +89,7 @@
             </configuration>
           </execution>
         </executions>
-               <pluginGroups>
-        <pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
-             </pluginGroups>
+        <groupId>org.sonarsource.scanner.maven</groupId>
          <profiles>
         <profile>
             <id>sonar</id>
