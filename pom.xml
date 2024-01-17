@@ -8,7 +8,7 @@
   <artifactId>javascript-java-example-project</artifactId>
   <version>0.1.0-SNAPSHOT</version>
 
-  <name>JavaScript-Java Example Project</name>
+  <name>DemoPrj2</name>
   <description>You can use this code as an example for a combined JavaScript-Java project based on Maven</description>
   <url>https://github.com/Roshanck1/DemoPrj2</url>
 
@@ -90,7 +90,7 @@
           </execution>
         </executions>
       </plugin>
-	    <plugin>
+	<plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.1</version>
